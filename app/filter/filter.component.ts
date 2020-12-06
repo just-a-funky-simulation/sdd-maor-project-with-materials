@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+// import { MatSliderModule } from '@angular/core';
 
 @Component({
   selector: 'app-filter',
